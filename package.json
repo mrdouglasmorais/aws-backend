@@ -1,0 +1,24 @@
+{
+  "name": "aws-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrdouglasmorais/aws-backend.git"
+  },
+  "keywords": [],
+  "author": "Douglas Morais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrdouglasmorais/aws-backend/issues"
+  },
+  "homepage": "https://github.com/mrdouglasmorais/aws-backend#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
